@@ -1,11 +1,9 @@
 ---
 template.name: "Deploy Your App to Bluemix"
 template.description: "To see the application running on Bluemix, push the **Create** button. This will create a new toolchain that includes a pipeline, which is responsible for the deploying the app. As soon as the toolchain is created, you can watch what the pipeline does by clicking on its tile on the toolchain page. Once the application is deployed, you can click on the **View app** button to see it running.
-
-
+\n
 This toolchain uses tools that are part of the Continuous Delivery service. If an instance of that service isn't already in your organization, when you click **Create**, it is automatically added at no cost to you. For more information and terms, see the [Bluemix catalog](/catalog/services/continuous-delivery/).
-
-
+\n
 To get started, click **Create**."
 deploy.title: "Sample Deploy Stage"
 deploy.longDescription: "The Delivery Pipeline automates continuous deployment."
